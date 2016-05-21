@@ -1,0 +1,27 @@
+body{
+    background-image: url("../img/2.jpg");
+    /*filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='s')";*/
+    /*-moz-background-size:100% 100%;*/
+    /*background-size:100% 100%;*/
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    -moz-background-size:cover;
+    -webkit-background-size:cover;
+}
+.container{
+    margin-top: 15%;
+    width: 400px;
+    text-align: center;
+}
+.login{
+    margin-top: 20px;
+}
+.loginbtn{
+    margin-top: 20px;
+}
+#loginbtn1{
+    width: 150px;
+}#loginbtn2{
+    width: 150px;
+}
